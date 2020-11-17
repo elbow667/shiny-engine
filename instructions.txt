@@ -2,3 +2,7 @@ Instructions for deploying this site to the server
 ------------------------------------
 
 Lorem ipsum dolar sit amet, consectetur adipiscing elit.
+
+Installation on Instructions
+----------------------------
+content goes here
